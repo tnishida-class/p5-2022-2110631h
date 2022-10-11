@@ -25,6 +25,3 @@ function setup() {
   }
     }
   }
-
-
-circle(size*1.5,size*0.5,size*0.9)
